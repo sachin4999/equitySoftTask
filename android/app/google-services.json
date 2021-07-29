@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "243956391576",
+    "project_id": "equitysofttask",
+    "storage_bucket": "equitysofttask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243956391576:android:f1574b5c2febca3cf0baed",
+        "android_client_info": {
+          "package_name": "com.mohit.equity_soft_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243956391576-13kbviatt7v211el9b90i0u95hc03jtn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mohit.equity_soft_task",
+            "certificate_hash": "1e9ed880cbd27d1eb1d4c508e30e5a706703cdce"
+          }
+        },
+        {
+          "client_id": "243956391576-orujhjtdhrihgs3ls30db869gsc5ncp2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC82Zszfh1QG1CLN6jAS00PV0WHT6VF11s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243956391576-orujhjtdhrihgs3ls30db869gsc5ncp2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
